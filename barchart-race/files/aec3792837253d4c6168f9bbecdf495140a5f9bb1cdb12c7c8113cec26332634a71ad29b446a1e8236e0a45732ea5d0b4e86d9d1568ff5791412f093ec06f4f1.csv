@@ -1,0 +1,231 @@
+date,name,category,value
+2008-01-01,USA,North America,2
+2009-01-01,USA,North America,2
+2010-01-01,USA,North America,2
+2011-01-01,USA,North America,2
+2012-01-01,USA,North America,2
+2012-01-01,Canada,North America,1
+2012-01-01,India,Asia,1
+2013-01-01,USA,North America,4
+2013-01-01,Canada,North America,1
+2013-01-01,India,Asia,1
+2013-01-01,Netherlands,Europe,1
+2014-01-01,USA,North America,4
+2014-01-01,Canada,North America,2
+2014-01-01,India,Asia,1
+2014-01-01,Netherlands,Europe,1
+2014-01-01,China,Asia,2
+2014-01-01,Germany,Europe,1
+2015-01-01,USA,North America,4
+2015-01-01,Canada,North America,2
+2015-01-01,India,Asia,1
+2015-01-01,Netherlands,Europe,2
+2015-01-01,China,Asia,2
+2015-01-01,Germany,Europe,1
+2015-01-01,Indonesia,Asia,1
+2015-01-01,Brazil,South America,1
+2016-01-01,USA,North America,7
+2016-01-01,Canada,North America,2
+2016-01-01,India,Asia,1
+2016-01-01,Netherlands,Europe,2
+2016-01-01,China,Asia,2
+2016-01-01,Germany,Europe,1
+2016-01-01,Indonesia,Asia,1
+2016-01-01,Brazil,South America,1
+2016-01-01,Mexico,North America,1
+2016-01-01,France,Europe,1
+2016-01-01,Hong Kong,Asia,1
+2017-01-01,USA,North America,7
+2017-01-01,Canada,North America,4
+2017-01-01,India,Asia,1
+2017-01-01,Netherlands,Europe,2
+2017-01-01,China,Asia,2
+2017-01-01,Germany,Europe,1
+2017-01-01,Indonesia,Asia,1
+2017-01-01,Brazil,South America,1
+2017-01-01,Mexico,North America,1
+2017-01-01,France,Europe,1
+2017-01-01,Hong Kong,Asia,1
+2017-01-01,Australia,Australia,1
+2017-01-01,Austria,Europe,1
+2017-01-01,Spain,Europe,1
+2017-01-01,Norway,Europe,1
+2017-01-01,Singapore,Asia,1
+2018-01-01,USA,North America,8
+2018-01-01,Canada,North America,4
+2018-01-01,India,Asia,1
+2018-01-01,Netherlands,Europe,2
+2018-01-01,China,Asia,2
+2018-01-01,Germany,Europe,1
+2018-01-01,Indonesia,Asia,2
+2018-01-01,Brazil,South America,2
+2018-01-01,Mexico,North America,1
+2018-01-01,France,Europe,2
+2018-01-01,Hong Kong,Asia,1
+2018-01-01,Australia,Australia,1
+2018-01-01,Austria,Europe,1
+2018-01-01,Spain,Europe,1
+2018-01-01,Norway,Europe,1
+2018-01-01,Singapore,Asia,1
+2018-01-01,NA,∅,1
+2019-01-01,USA,North America,9
+2019-01-01,Canada,North America,4
+2019-01-01,India,Asia,1
+2019-01-01,Netherlands,Europe,2
+2019-01-01,China,Asia,2
+2019-01-01,Germany,Europe,3
+2019-01-01,Indonesia,Asia,2
+2019-01-01,Brazil,South America,5
+2019-01-01,Mexico,North America,1
+2019-01-01,France,Europe,4
+2019-01-01,Hong Kong,Asia,1
+2019-01-01,Australia,Australia,1
+2019-01-01,Austria,Europe,1
+2019-01-01,Spain,Europe,1
+2019-01-01,Norway,Europe,1
+2019-01-01,Singapore,Asia,2
+2019-01-01,NA,∅,1
+2019-01-01,Lebanon,Asia,2
+2019-01-01,Botswana,Africa,1
+2019-01-01,Portugal,Europe,1
+2019-01-01,Peru,South America,2
+2019-01-01,Belgium,Europe,2
+2019-01-01,Chile,South America,1
+2019-01-01,Columbia,South America,1
+2019-01-01,Italy,Europe,1
+2019-01-01,Kenya,Africa,1
+2020-01-01,USA,North America,12
+2020-01-01,Canada,North America,4
+2020-01-01,India,Asia,1
+2020-01-01,Netherlands,Europe,4
+2020-01-01,China,Asia,2
+2020-01-01,Germany,Europe,5
+2020-01-01,Indonesia,Asia,2
+2020-01-01,Brazil,South America,7
+2020-01-01,Mexico,North America,1
+2020-01-01,France,Europe,4
+2020-01-01,Hong Kong,Asia,1
+2020-01-01,Australia,Australia,1
+2020-01-01,Austria,Europe,1
+2020-01-01,Spain,Europe,1
+2020-01-01,Norway,Europe,1
+2020-01-01,Singapore,Asia,3
+2020-01-01,NA,∅,1
+2020-01-01,Lebanon,Asia,2
+2020-01-01,Botswana,Africa,1
+2020-01-01,Portugal,Europe,1
+2020-01-01,Peru,South America,2
+2020-01-01,Belgium,Europe,2
+2020-01-01,Chile,South America,1
+2020-01-01,Columbia,South America,1
+2020-01-01,Italy,Europe,1
+2020-01-01,Kenya,Africa,1
+2020-01-01,Croatia,Europe,1
+2020-01-01,Iceland,Europe,1
+2020-01-01,Ecuador,South America,1
+2020-01-01,Russia,Europe,1
+2020-01-01,Poland,Europe,1
+2020-01-01,Latvia,Europe,1
+2021-01-01,USA,North America,14
+2021-01-01,Canada,North America,4
+2021-01-01,India,Asia,1
+2021-01-01,Netherlands,Europe,4
+2021-01-01,China,Asia,2
+2021-01-01,Germany,Europe,7
+2021-01-01,Indonesia,Asia,2
+2021-01-01,Brazil,South America,9
+2021-01-01,Mexico,North America,1
+2021-01-01,France,Europe,5
+2021-01-01,Hong Kong,Asia,2
+2021-01-01,Australia,Australia,1
+2021-01-01,Austria,Europe,1
+2021-01-01,Spain,Europe,2
+2021-01-01,Norway,Europe,1
+2021-01-01,Singapore,Asia,3
+2021-01-01,NA,∅,1
+2021-01-01,Lebanon,Asia,2
+2021-01-01,Botswana,Africa,1
+2021-01-01,Portugal,Europe,1
+2021-01-01,Peru,South America,2
+2021-01-01,Belgium,Europe,2
+2021-01-01,Chile,South America,1
+2021-01-01,Columbia,South America,1
+2021-01-01,Italy,Europe,2
+2021-01-01,Kenya,Africa,1
+2021-01-01,Croatia,Europe,1
+2021-01-01,Iceland,Europe,1
+2021-01-01,Ecuador,South America,1
+2021-01-01,Russia,Europe,1
+2021-01-01,Poland,Europe,1
+2021-01-01,Latvia,Europe,1
+2021-01-01,Lithuania,Europe,1
+2022-01-01,USA,North America,15
+2022-01-01,Canada,North America,4
+2022-01-01,India,Asia,1
+2022-01-01,Netherlands,Europe,6
+2022-01-01,China,Asia,2
+2022-01-01,Germany,Europe,8
+2022-01-01,Indonesia,Asia,2
+2022-01-01,Brazil,South America,11
+2022-01-01,Mexico,North America,1
+2022-01-01,France,Europe,7
+2022-01-01,Hong Kong,Asia,2
+2022-01-01,Australia,Australia,1
+2022-01-01,Austria,Europe,1
+2022-01-01,Spain,Europe,2
+2022-01-01,Norway,Europe,1
+2022-01-01,Singapore,Asia,3
+2022-01-01,NA,∅,1
+2022-01-01,Lebanon,Asia,2
+2022-01-01,Botswana,Africa,1
+2022-01-01,Portugal,Europe,4
+2022-01-01,Peru,South America,2
+2022-01-01,Belgium,Europe,3
+2022-01-01,Chile,South America,2
+2022-01-01,Columbia,South America,1
+2022-01-01,Italy,Europe,2
+2022-01-01,Kenya,Africa,1
+2022-01-01,Croatia,Europe,1
+2022-01-01,Iceland,Europe,1
+2022-01-01,Ecuador,South America,1
+2022-01-01,Russia,Europe,1
+2022-01-01,Poland,Europe,1
+2022-01-01,Latvia,Europe,1
+2022-01-01,Lithuania,Europe,1
+2022-01-01,Taiwan (ROC),Asia,1
+2022-01-01,Argentina,South America,1
+2023-01-01,USA,North America,15
+2023-01-01,Canada,North America,4
+2023-01-01,India,Asia,1
+2023-01-01,Netherlands,Europe,6
+2023-01-01,China,Asia,2
+2023-01-01,Germany,Europe,8
+2023-01-01,Indonesia,Asia,2
+2023-01-01,Brazil,South America,11
+2023-01-01,Mexico,North America,1
+2023-01-01,France,Europe,7
+2023-01-01,Hong Kong,Asia,2
+2023-01-01,Australia,Australia,1
+2023-01-01,Austria,Europe,1
+2023-01-01,Spain,Europe,2
+2023-01-01,Norway,Europe,1
+2023-01-01,Singapore,Asia,3
+2023-01-01,NA,∅,1
+2023-01-01,Lebanon,Asia,2
+2023-01-01,Botswana,Africa,1
+2023-01-01,Portugal,Europe,4
+2023-01-01,Peru,South America,2
+2023-01-01,Belgium,Europe,3
+2023-01-01,Chile,South America,2
+2023-01-01,Columbia,South America,1
+2023-01-01,Italy,Europe,2
+2023-01-01,Kenya,Africa,1
+2023-01-01,Croatia,Europe,1
+2023-01-01,Iceland,Europe,1
+2023-01-01,Ecuador,South America,1
+2023-01-01,Russia,Europe,1
+2023-01-01,Poland,Europe,1
+2023-01-01,Latvia,Europe,1
+2023-01-01,Lithuania,Europe,1
+2023-01-01,Taiwan (ROC),Asia,1
+2023-01-01,Argentina,South America,1
